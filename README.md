@@ -4,4 +4,6 @@ Ready to feature "Beta: Use Unicode UTF-8 for worldwide language support" resour
 
 Languages
 
-Chinese, English, Japanese
+Japanese, Chinese, English
+
+Japanese and Chinese Translation appear with '�'. It is recommended to apply it to the English Translation.
